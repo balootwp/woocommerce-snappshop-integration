@@ -1,4 +1,4 @@
-<div dir="rtl" align="right">
+<div dir="rtl" align="right" style="direction:rtl;">
 
 # 🛍️ SnapWoo – یکپارچه‌ساز ووکامرس با SnappShop
 
